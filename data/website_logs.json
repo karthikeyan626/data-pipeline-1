@@ -1,0 +1,10 @@
+[
+  {"log_id": "L1", "employee_id": "E001", "event": "quote_generated", "product": "Laptop", "timestamp": "2024-01-05T10:15:00"},
+  {"log_id": "L2", "employee_id": "E002", "event": "quote_generated", "product": "Mouse", "timestamp": "2024-01-05T11:02:00"},
+  {"log_id": "L3", "employee_id": "E001", "event": "invoice_downloaded", "product": "Keyboard", "timestamp": "2024-01-06T09:40:00"},
+  {"log_id": "L4", "employee_id": "E003", "event": "quote_generated", "product": "Monitor", "timestamp": "2024-01-06T14:22:00"},
+  {"log_id": "L5", "employee_id": "E002", "event": "invoice_downloaded", "product": "Laptop", "timestamp": "2024-01-07T16:05:00"},
+  {"log_id": "L6", "employee_id": "E004", "event": "quote_generated", "product": "Mouse", "timestamp": "2024-01-07T12:11:00"},
+  {"log_id": "L7", "employee_id": "E001", "event": "quote_generated", "product": "Monitor", "timestamp": "2024-01-08T08:55:00"},
+  {"log_id": "L8", "employee_id": "E003", "event": "invoice_downloaded", "product": "Keyboard", "timestamp": "2024-01-08T13:30:00"}
+]
